@@ -22,14 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-1440px
-
 ![screenshot](https://github.com/Mell789/bmi_calculator/assets/119974283/b0211bb0-b8cc-421e-bca4-ec64c874e0c1)
-
-375px
-
-![screenshot375](https://github.com/Mell789/bmi_calculator/assets/119974283/5fbfe48b-4b80-47d0-9f6c-c21fab4d5629)
-
 
 ### Links
 
