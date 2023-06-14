@@ -1,0 +1,276 @@
+
+@media screen and (max-width:320px)
+{
+    .m-xsm-0 {
+        margin: 0 !important;
+        top: 500px;
+    }
+}
+
+
+@media screen and (min-width: 425px)
+{
+    #textCM {
+        position: absolute;
+        top: 47px;
+        right: 8%;
+    }
+    #textKG {
+        position: absolute;
+        top: 47px;
+        right: 8%;
+    }
+    #textFT {
+        left: 36%;
+    }
+    #textIN {
+        right: 6%;
+    }
+    #textST {
+        left: 36%;
+    }
+    #textLBS {
+        right: 6%;
+    }
+    
+    .enterYourDetails {
+        top: 450px;
+    }
+
+    .logodivMargin {
+        margin-bottom: 41px !important;
+    }
+}
+@media screen and (min-width: 768px){
+    .p-md-32 {
+        padding: 32px !important;
+    }
+    .mb-md-32 {
+        margin-bottom: 32px !important;
+    }
+    .translatetoTop {
+        translate: 0 -330px;
+    }
+    .resultbmi {
+        max-width: 40%;
+    }
+    .borderRadiusEnd {
+        border-bottom-right-radius: 999px !important;
+        border-top-right-radius: 999px !important;
+    }
+    .enterYourDetails {
+        top: 360px;
+    }
+    
+    /* bmi result */
+    .bmi_result_means {
+        margin-top: 200px;
+        padding: 0 24px;
+    }
+    .bmi_result_img_div {
+        width: 410px;
+        height: 411px;
+        translate: -85px;
+    }
+    .bmi_result_content {
+        width: 331px;
+        height: auto;
+    }
+    /* bmi result */
+    #textFT {
+        left: 42%;
+    }
+    #textIN {
+        right: 4%;
+    }
+    #textST {
+        left: 42%;
+    }
+    #textLBS {
+        right: 4%;
+    }
+    /* ees */
+    .ees {
+        padding: 60px 40px;
+    }
+    /* lob */
+    .lob {
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 15px;
+        grid-row-gap: 24px;
+        margin-left: 40px;
+        margin-right: 40px;
+        justify-content: center;
+    }
+    .lob .item1 {
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+    .lob .item6 {
+        translate: 172px 0;
+    }
+}
+@media screen and (min-width: 1024px){
+    .bmi_result_means {
+        padding: 0 32px;
+        margin-top: 150px;
+        gap: 40px;
+    }
+    .bmi_result_img_div {
+        width: 564px;
+        height: auto;
+        translate: unset;
+    }
+    .bmi_result_content {
+        width: 465px;
+        height: auto;
+    }
+    .bmi_result_caption {
+        font-size: 48px;
+    }
+    .enterYourDetails {
+        top: 330px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        width: 70%;
+    }
+}
+@media screen and (min-width: 1200px){
+    .BMIC {
+        width: 978px;
+        height: 737px;
+        text-align: left !important;
+    }
+    .logodivMargin {
+        margin-bottom: 0 !important;
+    }
+    .logo {
+        width: 59px;
+        height: 59px;
+        margin-top: 77px !important;
+        margin-left: 118px !important;
+        margin-bottom: 120px !important;
+    }
+    .enterYourDetails {
+        width: 564px;
+        top: 166px;
+        right: 140px;
+        left: unset;
+        margin: unset;
+    }
+    .bmi_result_means {
+        gap: 130px;
+        margin-top: 71px;
+    }
+    .bmic_div {
+        max-width: 500px;
+        margin-left: 118px;
+    }
+    .fs-lg-64 {
+        font-size: 64px !important;
+    }
+    /* ees */
+    .ees {
+        padding: 72px 115px;
+    }
+    /* lob */
+    .lob {
+        margin: 120px 140px;
+        display: none;
+    }
+    .lob.lob_flex {
+        display: block;
+    }
+    .lob .item1 {
+        grid-column-start: unset;
+        grid-column-end: unset;
+        width: 564px;
+    }
+    .lob .item6 {
+        translate: unset;
+    }
+    .lob_item .heading_32 {
+        font-size: 48px;
+    }
+    .lob_box {
+        width: 365px;
+    }
+    .lob_flex_item1 .item2 {
+        margin-right: 100px;
+    }
+    .lob_flex_item2 {
+        margin-bottom: 24px;
+        gap: 32px;
+    }
+    .lob_flex_item3 {
+        margin-right: 200px;
+        gap: 32px;
+    }
+    /* curved lines */
+    img[alt=leftCurvedLine] {
+        display: block !important;
+        position: absolute;
+        top: 749px;
+        left: 1188px;
+    }
+    img[alt=rightCurvedLine]{
+        display: block !important;
+        position: absolute;
+        left: 290px;
+        top: 2140px;
+    }
+    .mb-40 {margin-bottom: 40px !important;}
+}
+@media screen and (min-width: 1600px){
+    .fs-xxl-64 {font-size: 64px !important;}
+    .fs-xxl-32 { font-size: 32px !important; }
+    .BMIC {
+        width: 75%;
+    }
+    .lob {
+        margin-left: 240px;
+        margin-right: 240px;
+    }
+    /* bmi result means */
+    .bmi_result_means {
+       gap: 200px;
+    }
+    .bmi_result_img_div {
+       width: 600px; 
+    }
+    .bmi_result_content {
+        width: 500px;
+    }
+    /* curved lines */
+    img[alt=leftCurvedLine] {
+        top: 749px;
+        left: 1400px;
+    }
+    img[alt=rightCurvedLine]{
+        left: 390px;
+        top: 2180px;
+    }
+}
+@media screen and (min-width:1920px)
+{
+    /* curved lines */
+    img[alt=leftCurvedLine] {
+        top: 749px;
+        left: 1600px;
+    }
+    img[alt=rightCurvedLine]{
+        left: 500px;
+        top: 2130px;
+    }
+}
+@media screen and (min-width:2000px)
+{
+    /* curved lines */
+    img[alt=leftCurvedLine] {
+        display: none;
+    }
+    img[alt=rightCurvedLine]{
+        display: none;
+    }
+}

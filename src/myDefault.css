@@ -1,0 +1,105 @@
+/* my default css file */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {text-decoration: none; display: inline-block; color: unset;}
+a:hover {text-decoration: none; color: unset;}
+ul {margin: 0; padding: 0; list-style-type: none;}
+ul.navigation li{
+  display: inline-block;
+}
+
+footer.default {
+  background-color: black;
+  text-align: center;
+  color: #fff;
+  padding: 1.5rem;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+.img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.unselectable {
+  user-select: none;
+}
+
+
+
+
+.w-60 {
+  width: 60% !important;
+}
+.w-70 {
+  width: 70% !important;
+}
+.w-80 {
+  width: 80% !important;
+}
+.w-90 {
+  width: 90% !important;
+}
+.h-80 {
+  height: 80% !important;
+}
+.h-90 {
+  height: 90% !important;
+}
+
+
+
+/* custom scrollbar 1 */
+.customScrollbar::-webkit-scrollbar {width: 5px;}
+.customScrollbar::-webkit-scrollbar-track {background-color: black;}
+.customScrollbar::-webkit-scrollbar-thumb {background-color: #888; border-radius: 5px;}
+.customScrollbar::-webkit-scrollbar-thumb:hover {background-color: #555;}
+/* custom scrollbar 1 */
+
+
+
+
+
+/* change bootstrap h font sizes */
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.17em;
+}
+h4 {
+  font-size: 1em;
+}
+h5 {
+  font-size: .83em;
+}
+h6 {
+  font-size: .67em;
+}
+
+
+
+
+
+@media screen and (min-width:768px)
+{
+  .w-md-50 {width: 50% !important;}
+}
+@media screen and (min-width:1024px)
+{
+  .w-lg-50 {width: 50% !important;}
+}

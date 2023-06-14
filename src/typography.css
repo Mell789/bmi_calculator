@@ -1,0 +1,44 @@
+/* heading classes */
+.heading {
+    font-weight: 600;
+    font-family: Inter;
+    line-height: 110%;
+}
+.heading_XL {
+    font-size: 64px;
+}
+.heading_L {
+    font-size: 48px;
+}
+.heading_32 {
+    font-size: 32px;
+}
+.heading_M {
+    font-size: 24px;
+}
+.heading_S {
+    font-size: 20px;
+}
+/* body classes */
+.body {
+    font-family: Inter;
+    line-height: 150%;
+}
+.body_M {
+    font-weight: 400;
+    font-size: 16px;
+}
+.body_M_bold {
+    font-size: 16px;
+    font-weight: 600;
+}
+.body_S {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+@media screen and (max-width:1023px)
+{
+    .bmi_value.heading_XL {font-size: 48px !important;}
+}
