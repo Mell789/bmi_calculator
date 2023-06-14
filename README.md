@@ -40,6 +40,7 @@ Users should be able to:
 
 - HTML
 - CSS
+- Bootstrap
 - Flexbox
 - CSS Grid
 - Javascript
