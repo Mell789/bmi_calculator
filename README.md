@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://mell789.github.io/bmi_calculator/]
+- Live Site URL: https://mell789.github.io/bmi_calculator/
 
 ### Built with
 
