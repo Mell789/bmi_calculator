@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-bmi-calculator-wOdIK-fNuY
 - Live Site URL: https://mell789.github.io/bmi_calculator/
 
 ### Built with
