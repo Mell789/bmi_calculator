@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-(screenshot/screenshot.png)
+![screenshot](https://github.com/Mell789/bmi_calculator/assets/119974283/b0211bb0-b8cc-421e-bca4-ec64c874e0c1)
+
 
 ### Links
 
